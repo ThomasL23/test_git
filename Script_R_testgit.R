@@ -10,4 +10,5 @@ print(XXX)
 
 #Je poursuit mon script avant de lancer un 2e commit
 XXX <- "Marie"
-print("THOMAS AIME MARIE")
+ZZZ <- "Thomas"
+print("THOMAS AIME marie comme un fou")
