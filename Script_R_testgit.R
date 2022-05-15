@@ -13,5 +13,6 @@ XXX <- "Marie"
 ZZZ <- "Thomas"
 print("THOMAS AIME marie comme un fou")
 
-# hfoijcsjcso
-q
+# J'avance encore dans dev
+A <-"TEST"
+B <- "Baccalauraréat"
