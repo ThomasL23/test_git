@@ -10,10 +10,17 @@ print(XXX)
 
 #Je poursuit mon script avant de lancer un 2e commit
 XXX <- "Marie"
-print("THOMAS AIME MARIE")
+
+ZZZ <- "Thomas"
+print("THOMAS AIME marie comme un fou")
+
+# J'avance encore dans dev
+A <-"TEST"
+B <- "Baccalauraréat"
 
 # Je poursuit sur la branche principale (main)
 
 X <- 2
 Y <- 3
 X*Y
+
